@@ -1,0 +1,45 @@
+{
+  "name": "single-storage",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Browser storage that can only be read once",
+  "license": "MIT",
+  "repository": "bendrucker/single-storage",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "browser",
+    "storage",
+    "single",
+    "once",
+    "async",
+    "localStorage",
+    "sessionStorage"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js",
+    "write.js",
+    "read.js",
+    "stores.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "assert-ok": "~1.0.0",
+    "asyncreduce": "~0.1.4",
+    "browser-session-store": "~2.0.2",
+    "browser-store": "~2.0.2",
+    "map-values": "~1.0.1",
+    "run-parallel": "~1.1.4",
+    "xtend": "~4.0.1"
+  }
+}
