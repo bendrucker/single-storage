@@ -1,7 +1,7 @@
 {
   "name": "single-storage",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Browser storage that can only be read once",
   "license": "MIT",
   "repository": "bendrucker/single-storage",
