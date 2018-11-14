@@ -1,4 +1,4 @@
-# single-storage [![Build Status](https://travis-ci.org/bendrucker/single-storage.svg?branch=master)](https://travis-ci.org/bendrucker/single-storage)
+# single-storage [![Build Status](https://travis-ci.org/bendrucker/single-storage.svg?branch=master)](https://travis-ci.org/bendrucker/single-storage) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/single-storage.svg)](https://greenkeeper.io/)
 
 > Browser storage that can only be read once
 
